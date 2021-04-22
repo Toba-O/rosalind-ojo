@@ -1,5 +1,4 @@
-# rosalind-python_village
+# Rosalind - Python Village
 Rosalind Python Village - Bioinformatics Problems Attempts
 
-### Other
-For page visistors here - I am likely moving this repository to https://github.com/Toba-O/rosalind-ojo, for a comprehensive source of all chapters
+Welcome to the  Python Village chapter of Rosalind. As with each chapter, here I'll showcase the problems I encountered with their accompanying solutinons
